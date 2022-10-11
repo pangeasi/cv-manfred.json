@@ -191,6 +191,10 @@
           "name": "jQuery",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
       ]
     }
   }
