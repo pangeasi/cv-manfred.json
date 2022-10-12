@@ -39,6 +39,60 @@
     "jobs": [
       {
         "organization": {
+          "name": "LaLiga tech",
+          "image": {
+            "alt": "1_aNKOipkm1CvsStpkq2MDmQ.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/205310c1-d6be-43fc-906a-e3a0ee2b776d_1_ankoipkm1cvsstpkq2.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Desarrollo frontend y servicios en NodeJS en LaLiga tech,\nMantenimiento y desarrollo de evolutivos de las aplicaciones corporativas de LaLiga, desarrollo con React/Next.js (typescript), storybook, NodeJS, puppeteer, jest, react testing library\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "ChartJS",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Puppeteer",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Flat101",
           "image": {
             "alt": "descarga.png",
