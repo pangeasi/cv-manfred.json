@@ -39,6 +39,57 @@
     "jobs": [
       {
         "organization": {
+          "name": "Dev&Del",
+          "image": {
+            "alt": "0217c983-700b-4a79-996f-0a751d945a7d.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/85ef6fbc-e44e-4654-a9e0-beb4c70aad8e_0217c983-700b-4a79-9.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2020-01-01",
+            "finishDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollador web fullstack en Dev&Del, Proyecto becas univerisia: en el cual tuve un perfil en backend trabajando con microservicios, node.js, mongodb, ElasticSearch y web scraping.\nProyecto nektiu: plataforma de streaming, videos bajo demanda y en directo. realice tareas tanto en front como en back, respectivamente Angular 9 y node.js y mongoDB.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Puppeteer",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Avirato",
           "image": {
             "alt": "AVIRATO-LOGOTIPO-29-1024x1024.png",
