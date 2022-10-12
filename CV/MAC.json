@@ -39,6 +39,61 @@
     "jobs": [
       {
         "organization": {
+          "name": "Flat101",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/352531f7-4198-49fa-a52b-f0ee6657de46_descarga.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2021-04-01",
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Desarrollador frontend en Flat 101, Proyecto herramienta teleoperadores Melia.com desarrollada en React/Next.js (typescript) storybook, jest, enzyme, cypress, preprocesador scss"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Enzyme",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Dev&Del",
           "image": {
             "alt": "0217c983-700b-4a79-996f-0a751d945a7d.jpeg",
