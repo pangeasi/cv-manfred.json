@@ -366,6 +366,22 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico en desarrollo de aplicaciones web",
+        "startDate": "2017-09-01",
+        "finishDate": "2019-03-01",
+        "institution": {
+          "name": "IES María de Zayas y Sotomayor",
+          "image": {
+            "alt": "logo-zayas.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/a52bc220-926d-410d-b6ed-3ad462769a27_logo-zayas.png"
+          }
+        }
+      }
     ]
   },
   "careerPreferences": {
