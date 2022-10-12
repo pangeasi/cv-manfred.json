@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -33,6 +32,65 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/dani-ballesteros/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Avirato",
+          "image": {
+            "alt": "AVIRATO-LOGOTIPO-29-1024x1024.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/cd7a7813-4b46-462a-955a-c3415e7a83fe_avirato-logotipo-29-.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2019-03-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "Desempeño un perfil Fullstack; backend, frontend y despliegue en un proyecto realizado en Typescript en toda su totalidad, en servidor y cliente; desarrollado en React con NextJS y Apollo client para la comunicación con graphQL a través de TypeORM con persistencia en MariaDB/mysql"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apollo",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
