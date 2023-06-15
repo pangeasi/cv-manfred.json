@@ -32,6 +32,43 @@
     "jobs": [
       {
         "organization": {
+          "name": "Soamee",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/15/366f16d2-2b31-4d68-a82f-1b06b93cd534_1551782537751.jpeg",
+            "alt": "1551782537751.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Fullstack developer",
+            "startDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "LaLiga tech",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/205310c1-d6be-43fc-906a-e3a0ee2b776d_1_ankoipkm1cvsstpkq2.jpeg",
