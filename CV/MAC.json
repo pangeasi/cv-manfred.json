@@ -32,6 +32,35 @@
     "jobs": [
       {
         "organization": {
+          "name": "BQ Educación",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/30/1ea1dd95-a4ca-4072-a0d7-dafaad9d3fec_alxc745k_400x400.jpg",
+            "alt": "alXc745K_400x400.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Front end developer",
+            "startDate": "2023-08-01",
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Soamee",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/15/366f16d2-2b31-4d68-a82f-1b06b93cd534_1551782537751.jpeg",
