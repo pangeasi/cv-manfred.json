@@ -109,6 +109,7 @@
           {
             "name": "Full stack developer",
             "startDate": "2021-09-01",
+            "finishDate": "2022-10-01",
             "challenges": [
               {
                 "description": "Desarrollo frontend y servicios en NodeJS en LaLiga tech,\nMantenimiento y desarrollo de evolutivos de las aplicaciones corporativas de LaLiga, desarrollo con React/Next.js (typescript), storybook, NodeJS, puppeteer, jest, react testing library\n"
