@@ -543,6 +543,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "mi trabajo ideal ahora mismo, sería uno en el que pueda crecer rápidamente, pueda seguir formandome o aprender de mis compañeros y de sus metodologías. Además me interesa uno en el que pueda conciliar mi horario con mis otros proyectos."
   }
 }
