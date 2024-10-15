@@ -351,48 +351,6 @@
       },
       {
         "skill": {
-          "name": "GraphQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PostgreSQL",
           "type": "technology"
         }
@@ -400,36 +358,6 @@
       {
         "skill": {
           "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redis",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Socket.io",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeORM",
           "type": "technology"
         }
       },
