@@ -40,6 +40,43 @@
     "jobs": [
       {
         "organization": {
+          "name": "Smartick",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/05/4e6015e5-4ea4-4893-9577-f957a7008934_smartick_logo.jpeg",
+            "alt": "smartick_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2023-10-01",
+            "competences": [
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nuxt.js",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "BQ Educación",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/30/1ea1dd95-a4ca-4072-a0d7-dafaad9d3fec_alxc745k_400x400.jpg",
