@@ -50,6 +50,11 @@
           {
             "name": "Frontend developer",
             "startDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "### Proyectos destacados:\n- **Proyecto 1:** Desarrollo de una aplicación web utilizando **React** y **Next.js**.  \n  - Implementación de interfaces de usuario escalables.  \n  - Optimización del rendimiento y la experiencia de usuario.\n  \n- **Proyecto 2:** Creación y mantenimiento de un sistema interactivo con **Nuxt.js**.  \n  - **Migración tecnológica:** Lideré la migración de una aplicación de **Vue** a **Vue3** tipada con **TypeScript**, logrando mejoras significativas en la calidad del código y en la eficiencia del desarrollo.\n\n### Contribuciones adicionales:\n- Colaboración en tareas de backend utilizando **Python**, facilitando la integración entre el frontend y el backend.\n- Gestión y optimización de bases de datos **MySQL**, asegurando la consistencia y eficiencia en el manejo de datos.\n\n### Competencias demostradas:\n- Adaptabilidad y versatilidad para trabajar con diversas tecnologías.\n- Capacidad para liderar proyectos complejos y optimizar procesos de migración tecnológica.\n- Enfoque en la mejora continua y la implementación de soluciones innovadoras.\n"
+              }
+            ],
             "competences": [
               {
                 "name": "MySQL",
