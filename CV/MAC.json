@@ -61,6 +61,10 @@
                 "type": "technology"
               },
               {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
                 "name": "Nuxt.js",
                 "type": "technology"
               },
